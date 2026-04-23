@@ -1,0 +1,16 @@
+{
+  "appId": "com.daniyal.tasktracker",
+  "appName": "Task Tracker",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#09090F"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#5050F8",
+      "sound": "beep.wav"
+    }
+  }
+}
